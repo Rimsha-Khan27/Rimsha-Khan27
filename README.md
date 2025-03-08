@@ -1,8 +1,8 @@
 # Hello folks 👋 Rimsha Khan here!
 
 ## 🚀 About Me  
-- 🎓 I'm a final-year **B.Tech (IT) student**.  
-- 💻 Passionate about ** DSA, Web Development & Data Science**.  
+- 🎓 I'm a final-year **B.Tech (IT) student** at UIT-RGPV.  
+- 💻 Passionate about **DSA, Web Development & Data Science**.  
 - 🤝 Looking to collaborate on **exciting projects**.  
 
 ## 🛠 **Tech Stack**  
@@ -21,9 +21,6 @@
 
 ## 📊 **GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimsha-Khan27&show_icons=true&theme=dark)  
-
-## 🔥 **GitHub Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rimsha-Khan27&theme=dark)  
 
 ## 🌍 **Connect With Me**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
