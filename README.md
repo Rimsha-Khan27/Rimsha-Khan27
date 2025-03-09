@@ -1,9 +1,10 @@
-# Hello folks 👋 Rimsha Khan here!
+# Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Rimsha Khan here!
 
 ## 🚀 About Me  
 - 🎓 I'm a final-year **B.Tech (IT) student** at UIT - RGPV.  
 - 💻 Passionate about **DSA, Web Development & Data Science**.  
 - 🤝 Looking to collaborate on **exciting projects**.  
+- 📧 Reach me at **rimsha2707@gmail.com**
 
 ## 🧰 **Toolbox**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,8 +28,9 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
 
-## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimsha-Khan27&show_icons=true&theme=dark)  
-
 ## 🌍 **Connect With Me**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rimsha27/)  
+
+## 📊 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimsha-Khan27&show_icons=true&theme=dark)  
