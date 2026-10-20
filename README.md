@@ -1,4 +1,11 @@
-# Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Rimsha Khan here!
+Hi Shannon,
+
+As per the system’s expected functionality, the policy document should automatically regenerate with the updated data once the policy is unissued and reissued.
+
+However, in some cases, the document generation process may take longer than expected due to delays in the associated services updating the information. This may have caused the delay in generating the policy document with the corrected effective date.
+
+Regards,
+Vasavisrc="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Rimsha Khan here!
 
 ## 🚀 About Me  
 - 🎓 I'm a final-year **B.Tech (IT) student** at UIT - RGPV.  
