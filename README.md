@@ -1,3 +1,52 @@
+**Short Description:**\
+Reprint failure for policy LA 281860-11 due to apostrophe in policy data.
+
+**Description:**
+
+WHAT: User reported that endorsements 17 and 18 for policy LA 281860-11 were not available in UW-Aero eLAD.
+
+WHEN: [Update the issue start time]
+
+WHO: Policies
+
+HOW - Steps of Approach:
+
+1. Analyzed the reprint failure for the requested policy.
+2. Identified an apostrophe in the policy data as the cause of the issue.
+3. Corrected the data causing the reprint failure.
+4. Reprinted the documents and verified that they are now available in eLAD.
+
+WHY: The apostrophe in the policy data caused the reprint process to fail.
+
+IDENTIFIERS:\
+Application: UW-Aero eLAD\
+Policy No: LA 281860-11\
+Endorsements: 17 and 18
+
+**Closure Notes:**
+
+**Reported Issue:**
+
+The user reported that endorsements 17 and 18 for policy LA 281860-11 were not available in eLAD.
+
+**Issue Description:**
+
+The requested documents could not be reprinted due to an issue caused by an apostrophe in the policy data.
+
+**Analysis:**
+
+Analyzed the reprint failure and identified an apostrophe in the policy data as the cause.
+
+**Solution/Workaround:**
+
+Corrected the data causing the issue and reprinted the documents successfully. The documents are now available in eLAD.
+
+**Module/Functionality:**
+
+UW-Aero eLAD / Policy Reprint
+
+**Problem Ticket:** Not applicable.
+
 ```text
 Short Description:
 UW-Aero eLAD: Policy LN 2320048-1 unavailable for print due to LAD844 endorsement issue.
