@@ -1,43 +1,102 @@
-Hi Shannon,
+```text
+Short Description:
+UW-Aero eLAD: Policy LN 2320048-1 unavailable for print due to LAD844 endorsement issue.
 
-As per the system’s expected functionality, the policy document should automatically regenerate with the updated data once the policy is unissued and reissued.
+Description:
 
-However, in some cases, the document generation process may take longer than expected due to delays in the associated services updating the information. This may have caused the delay in generating the policy document with the corrected effective date.
+WHAT: User requested printing of policy LN 2320048-1, which was not available for printing in UW-Aero eLAD.
 
-Regards,
-Vasavisrc="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Rimsha Khan here!
+WHEN: [Update the issue start time]
 
-## 🚀 About Me  
-- 🎓 I'm a final-year **B.Tech (IT) student** at UIT - RGPV.  
-- 💻 Passionate about **DSA, Web Development & Data Science**.  
-- 🤝 Looking to collaborate on **exciting projects**.  
-- 📧 Reach me at **rimsha2707@gmail.com**
+WHO: Policies
 
-## 🧰 **Toolbox**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
-![Pygame](https://img.shields.io/badge/-Pygame-008080?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FA0F00?style=for-the-badge&logo=jupyter)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
+HOW - Steps of Approach:
+1. Reviewed the policy and analyzed the print failure.
+2. Identified that the issue was related to the LAD844 endorsement causing an NGPS processing issue.
+3. Removed the LAD844 endorsement to allow the policy to be processed.
+4. Printed the LAD844 endorsement separately.
+5. Added the separately printed endorsement to the policy document.
+6. Shared the completed document with the user.
 
-## 🌍 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Rimsha27/)  
+WHY: The policy print process was failing due to an NGPS issue caused by the LAD844 endorsement.
 
-## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimsha-Khan27&show_icons=true&theme=dark)  
+IDENTIFIERS:
+Application: UW-Aero eLAD
+Policy No: LN 2320048-1
+Endorsement: LAD844
+
+Closure Notes:
+
+Reported Issue:
+
+User reported that policy LN 2320048-1 was not available for printing in UW-Aero eLAD.
+
+Issue Description:
+
+The policy print process was failing due to an NGPS issue associated with the LAD844 endorsement.
+
+Analysis:
+
+Reviewed the policy and analyzed the print failure. The issue was identified as being caused by the LAD844 endorsement, which resulted in an NGPS processing issue.
+
+Solution/Workaround:
+
+The LAD844 endorsement was removed to allow the policy to be processed successfully. The endorsement was then printed separately and added to the policy document. The completed document was shared with the user.
+
+Module/Functionality:
+
+UW-Aero eLAD / Policy Printing / Endorsement
+
+No defect or recurring issue found; problem ticket not applicable.
+
+
+
+**Short Description:**\
+Correct Mexican certificate endorsement number for policy LA 319460-1.
+
+**Description:**
+
+WHAT: The Mexican certificate for policy LA 319460-1 had an incorrect endorsement number.
+
+WHEN: [Update the issue start time]
+
+WHO: Policies
+
+HOW - Steps of Approach:
+
+1. Reviewed the issue with the Mexican certificate.
+2. Identified the incorrect endorsement number.
+3. Corrected the endorsement number using a DML script.
+4. Verified that the required correction was completed successfully.
+
+WHY: The incorrect endorsement number caused the certificate data to be inaccurate.
+
+IDENTIFIERS:\
+Policy No: LA 319460-1\
+Module: Invoice Corrector / Mexican Certificate
+
+**Closure Notes:**
+
+**Reported Issue:**
+
+The Mexican certificate for policy LA 319460-1 displayed an incorrect endorsement number.
+
+**Issue Description:**
+
+The certificate contained an incorrect endorsement number, requiring correction.
+
+**Analysis:**
+
+Reviewed the certificate details and identified the incorrect endorsement number.
+
+**Solution/Workaround:**
+
+Updated the endorsement number using a DML script. The correction was completed successfully, and the issue is resolved.
+
+**Module/Functionality:**
+
+ILS / Invoice Corrector – Mexican Certificate
+
+**Problem Ticket:** Not applicable.
+
+Remove Repeated Issue DetailsAlign the Module Names
