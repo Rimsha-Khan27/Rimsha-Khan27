@@ -1,9 +1,19 @@
-Yes, I understood. Here are professionally worded, one-line deviation reasons for your three applications:
+Here are the professionally worded deviation reasons for your Excel sheet:
 
-| Application         | Deviation Reason                                                                                                                    |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 2504 – UW-Aero eLAD | Decrease in service requests due to the resolution of previously reported policy reprint issues.                                    |
-| 2505 – UW-Aero ILS  | Increase in service requests due to the resolution of multiple invoice-related issues and the addition of decommissioning requests. |
-| 2741 – UK-EADS      | Decrease in service requests due to the resolution of previously reported login issues in the preceding month.                      |
+- UW-Aero eLAD: No significant deviation observed compared to the previous month.
+- UW-Aero ILS: Slight increase in incidents due to a higher number of policy reprint-related issues.
+- UW-Aero OASYS (OSS): Decrease in incidents due to fewer false infrastructure alert occurrences during the month.
+- UK-EADS: Increase in incidents due to failures in the weekly SAP extract job.
 
-These are professional, clear, and suitable for directly updating your monthly reporting Excel sheet.
+These are concise, impactful, and suitable for manager-level reporting.
+
+
+
+
+
+Sorry, you're right. Only these four applications:
+
+- ELAD: No significant deviation observed; a slight increase in MTTR was due to additional analysis required for ticket resolution.
+- ILS: Decrease in MTTR due to faster issue resolution through effective workarounds.
+- OSS (OASYS): Increase in MTTR due to additional time required to analyze user requirements for application access modifications.
+- UK-EADS: Increase in MTTR due to a higher number of incidents caused by failures in the weekly SAP extract job.
