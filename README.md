@@ -1,3 +1,29 @@
+
+Closure Notes:
+
+Reported Issue:
+
+The certificate number for policy LA 319498-1 was not displaying correctly in UW-Aero eLAD.
+
+Issue Description:
+
+The certificate information associated with the lienholder was incorrect, resulting in the control number not being displayed properly.
+
+Analysis:
+
+Reviewed the policy details and identified the incorrect certificate number association.
+
+Solution/Workaround:
+
+The required correction was performed using a DML script. The updated certificate information was validated, and the issue was resolved successfully.
+
+Module/Functionality:
+
+UW-Aero eLAD / Policy Reprint
+
+Problem Ticket: Not applicable.
+
+
 **Short Description:**\
 Reprint failure for policy LA 281860-11 due to apostrophe in policy data.
 
