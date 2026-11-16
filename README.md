@@ -7,6 +7,9 @@
 
 Building scalable applications, solving problems, and exploring AI-powered technologies.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Rimsha--Khan27-181717?style=for-the-badge&logo=github)](https://github.com/Rimsha-Khan27)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimsha2707@gmail.com)
+
 </div>
 
 ---
@@ -40,10 +43,13 @@ Building scalable applications, solving problems, and exploring AI-powered techn
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Databases & Tools
+### Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Technologies
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -74,13 +80,13 @@ Building scalable applications, solving problems, and exploring AI-powered techn
 
 ---
 
-## 🧠 LeetCode
+## 🧠 Problem Solving
 
 <div align="center">
 
 ### 800+ DSA Problems Solved
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-800%2B_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL)
+![LeetCode](https://img.shields.io/badge/LeetCode-800%2B_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 </div>
 
@@ -90,13 +96,9 @@ Building scalable applications, solving problems, and exploring AI-powered techn
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github)](https://github.com/Rimsha-Khan27)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL)
-
-📧 **Email:** [rimsha2707@gmail.com](mailto:rimsha2707@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rimsha2707%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimsha2707@gmail.com)
 
 </div>
 
@@ -106,6 +108,6 @@ Building scalable applications, solving problems, and exploring AI-powered techn
 
 ### ✨ Code. Learn. Build. Repeat.
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! 💜
 
 </div>
