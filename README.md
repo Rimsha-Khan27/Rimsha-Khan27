@@ -1,19 +1,121 @@
-Here are the professionally worded deviation reasons for your Excel sheet:
 
-- UW-Aero eLAD: No significant deviation observed compared to the previous month.
-- UW-Aero ILS: Slight increase in incidents due to a higher number of policy reprint-related issues.
-- UW-Aero OASYS (OSS): Decrease in incidents due to fewer false infrastructure alert occurrences during the month.
-- UK-EADS: Increase in incidents due to failures in the weekly SAP extract job.
+<div align="center">
 
-These are concise, impactful, and suitable for manager-level reporting.
+# 👋 Hi, I'm Rimsha Khan
 
+### 💻 Software Developer | Backend Developer | AI Enthusiast
 
+Building scalable applications, solving problems, and exploring AI-powered technologies.
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat)
 
+</div>
 
-Sorry, you're right. Only these four applications:
+---
 
-- ELAD: No significant deviation observed; a slight increase in MTTR was due to additional analysis required for ticket resolution.
-- ILS: Decrease in MTTR due to faster issue resolution through effective workarounds.
-- OSS (OASYS): Increase in MTTR due to additional time required to analyze user requirements for application access modifications.
-- UK-EADS: Increase in MTTR due to a higher number of incidents caused by failures in the weekly SAP extract job.
+## 🚀 About Me
+
+- 💼 Software Developer at Cognizant Technology Solutions
+- 💻 Experienced in C#, .NET, Python, SQL, and REST APIs
+- 🤖 Passionate about Artificial Intelligence and Full-Stack Development
+- 🛠️ Built AI-powered applications using FastAPI and React
+- 🧠 Solved 800+ DSA problems on LeetCode
+- 🎓 B.Tech in Information Technology from UIT, RGPV
+- 🌱 Currently exploring AI, LLMs, and advanced software development
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+### Backend & Frontend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Databases & Tools
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 TaskPilot AI
+**Intelligent Task Management Platform**
+
+- Developed a full-stack task management application.
+- Built backend APIs using Python FastAPI.
+- Implemented task CRUD operations, filtering, and dashboard analytics.
+- Designed AI-driven task prioritization, smart reminders, and daily summaries.
+
+**Tech:** React 19, Python, FastAPI, SQLite, Tailwind CSS
+
+### 🏥 Hospital Management System
+
+- Developed backend modules for patient registration, appointments, billing, and records.
+- Implemented REST APIs and SQL-backed CRUD operations.
+- Applied OOP and layered architecture.
+
+**Tech:** C#, ASP.NET, SQL Server, REST APIs
+
+---
+
+## 🧠 LeetCode
+
+<div align="center">
+
+### 800+ Problems Solved
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-800%2B_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_URL)
+
+📧 **Email:** rimsha2707@gmail.com
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Code. Learn. Build. Repeat."
+
+Thanks for visiting my profile! 😊
+
+</div>
