@@ -7,8 +7,6 @@
 
 Building scalable applications, solving problems, and exploring AI-powered technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat)
-
 </div>
 
 ---
@@ -28,12 +26,14 @@ Building scalable applications, solving problems, and exploring AI-powered techn
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 ### Backend & Frontend
+
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -41,34 +41,36 @@ Building scalable applications, solving problems, and exploring AI-powered techn
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Databases & Tools
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 TaskPilot AI
-**Intelligent Task Management Platform**
+### 🤖 TaskPilot AI — Intelligent Task Management Platform
 
-- Developed a full-stack task management application.
-- Built backend APIs using Python FastAPI.
-- Implemented task CRUD operations, filtering, and dashboard analytics.
-- Designed AI-driven task prioritization, smart reminders, and daily summaries.
+**Tech Stack:** React 19, Python, FastAPI, SQLite, Tailwind CSS
 
-**Tech:** React 19, Python, FastAPI, SQLite, Tailwind CSS
+- Developed a full-stack task management application with a FastAPI backend and React frontend.
+- Implemented REST APIs, CRUD operations, filtering, and dashboard analytics.
+- Built AI-driven features including intelligent task prioritization, smart reminders, and daily summaries.
+- Designed a modular architecture with future LLM integration in mind.
 
 ### 🏥 Hospital Management System
 
-- Developed backend modules for patient registration, appointments, billing, and records.
-- Implemented REST APIs and SQL-backed CRUD operations.
-- Applied OOP and layered architecture.
+**Tech Stack:** C#, ASP.NET, SQL Server, REST APIs
 
-**Tech:** C#, ASP.NET, SQL Server, REST APIs
+- Developed backend modules for patient registration, appointments, billing, and records.
+- Implemented REST API endpoints using JSON.
+- Built SQL-backed CRUD operations using stored procedures.
+- Applied OOP and layered architecture for clean and maintainable code.
 
 ---
 
@@ -76,21 +78,9 @@ Building scalable applications, solving problems, and exploring AI-powered techn
 
 <div align="center">
 
-### 800+ Problems Solved
+### 800+ DSA Problems Solved
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-800%2B_Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -100,13 +90,13 @@ Building scalable applications, solving problems, and exploring AI-powered techn
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL)
 
-📧 **Email:** rimsha2707@gmail.com
+📧 **Email:** [rimsha2707@gmail.com](mailto:rimsha2707@gmail.com)
 
 </div>
 
@@ -114,7 +104,7 @@ Building scalable applications, solving problems, and exploring AI-powered techn
 
 <div align="center">
 
-### ✨ "Code. Learn. Build. Repeat."
+### ✨ Code. Learn. Build. Repeat.
 
 Thanks for visiting my profile! 😊
 
